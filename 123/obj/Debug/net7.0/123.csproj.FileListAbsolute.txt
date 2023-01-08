@@ -1,0 +1,15 @@
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/bin/Debug/net7.0/123
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/bin/Debug/net7.0/123.deps.json
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/bin/Debug/net7.0/123.runtimeconfig.json
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/bin/Debug/net7.0/123.dll
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/bin/Debug/net7.0/123.pdb
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.csproj.AssemblyReference.cache
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.AssemblyInfoInputs.cache
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.AssemblyInfo.cs
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.csproj.CoreCompileInputs.cache
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.dll
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/refint/123.dll
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.pdb
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/123.genruntimeconfig.cache
+/Users/ivanvasyutin/Новая папка 2/ControlCode/123/obj/Debug/net7.0/ref/123.dll
